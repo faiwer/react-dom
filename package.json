@@ -1,0 +1,39 @@
+{
+  "name": "@faiwer/react-dom",
+  "description": "A hobby project. A naive and simplified React implementation",
+  "keywords": [
+    "react",
+    "jsx",
+    "hooks",
+    "virtual-dom",
+    "frontend",
+    "ui-library"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faiwer/faiwer-react.git"
+  },
+  "homepage": "https://github.com/faiwer/faiwer-react-dom#readme",
+  "version": "0.8.4",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "client.js",
+    "client.d.ts",
+    "index.js",
+    "index.d.ts",
+    "README.md"
+  ],
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    },
+    "./client": {
+      "types": "./client.d.ts",
+      "default": "./client.js"
+    }
+  },
+  "author": "Stepan Zubashev",
+  "license": "ISC"
+}
