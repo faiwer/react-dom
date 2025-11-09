@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/faiwer/faiwer-react.git"
+    "url": "https://github.com/faiwer/react-dom.git"
   },
   "homepage": "https://github.com/faiwer/react-dom#readme",
   "version": "0.8.4",
