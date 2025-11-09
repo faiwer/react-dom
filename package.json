@@ -1,5 +1,8 @@
 {
   "name": "@faiwer/react-dom",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "A hobby project. A naive and simplified React implementation",
   "keywords": [
     "react",
