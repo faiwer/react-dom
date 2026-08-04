@@ -17,7 +17,7 @@
     "url": "https://github.com/faiwer/react-dom.git"
   },
   "homepage": "https://github.com/faiwer/react-dom#readme",
-  "version": "0.8.4",
+  "version": "19.0.7",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
